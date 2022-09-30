@@ -4,6 +4,6 @@ Repository containing [frontend mentor](https://www.frontendmentor.io/challenges
 ##Newbie challenges 
 
 - Interactive rating component. 
-- [frotnendmentor link](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
-- [library link](#)
+  - [frontendmentor link](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
+  - [library link](#)
   
