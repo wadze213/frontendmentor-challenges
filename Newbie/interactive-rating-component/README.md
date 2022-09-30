@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://interactive-rating-component-phi-ten.vercel.app/](https://interactive-rating-component-phi-ten.vercel.app/)
+- Solution URL: [Github repisotory](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/interactive-rating-component)
+- Live Site URL: [Vercel Site](https://interactive-rating-component-phi-ten.vercel.app/)
 
 ## My process
 
