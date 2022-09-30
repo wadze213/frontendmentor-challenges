@@ -25,10 +25,6 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
-
-![](/interactive-rating-component-main/screenshot.png)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
