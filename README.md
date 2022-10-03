@@ -8,3 +8,8 @@ Repository containing [frontend mentor](https://www.frontendmentor.io/challenges
   - [library link](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/interactive-rating-component)
   - [Live website link](https://interactive-rating-component-phi-ten.vercel.app/)
   
+- Four card feature section.
+  - [frontendmentor link](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
+  - [library link](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/four-card-feature-section)
+  - [Live website link](#)
+  
