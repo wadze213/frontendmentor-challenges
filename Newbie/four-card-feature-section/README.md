@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/four-card-feature-section)
+- Live Site URL: [Add live site URL here](https://four-card-feature-section-tau-blush.vercel.app/)
 
 ## My process
 
@@ -90,7 +90,7 @@ Next, I will take on another newbie challenge that involves Javacript as well. I
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [Danil Rayan Cristales (wadze213)](https://github.com/wadze213)
+  
+
 
