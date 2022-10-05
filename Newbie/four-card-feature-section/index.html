@@ -7,7 +7,11 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   
   <title>Frontend Mentor | Four card feature section</title>
-
+  <!-- Google font (poppins) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap" rel="stylesheet">
+  <!-- Custom stylesheet -->
   <link rel="stylesheet" href="css/styles.css">
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
@@ -16,30 +20,49 @@
   </style>
 </head>
 <body>
+  <div class="container">
   
-  Reliable, efficient delivery
-  Powered by Technology
+  <h2 class="center-text">Reliable, efficient delivery</h2>
+  <h1 class="center-text">Powered by Technology</h1>
 
-  Our Artificial Intelligence powered tools use millions of project data points 
-  to ensure that your project is successful
+  <p class="center-text p-margin">Our Artificial Intelligence powered tools use millions of project data points 
+  to ensure that your project is successful</p>
 
-  Supervisor
-  Monitors activity to identify project roadblocks
+  <div class="card-container">
+    <div class="card cyan-card">
+      <h3>Supervisor</h3>
+      <p>Monitors activity to identify project roadblocks</p>
+      <img src="./four-card-feature-section-master/images/icon-supervisor.svg" alt="">
+    </div>
 
-  Team Builder
-  Scans our talent network to create the optimal team for your project
+    <div class="inner-card-container">
+      <div class="card red-card">
+        <h3>Team Builder</h3>
+        <p>Scans our talent network to create the optimal team for your project</p>
+        <img src="./four-card-feature-section-master/images/icon-team-builder.svg" alt="">
+      </div>
 
-  Karma
-  Regularly evaluates our talent to ensure quality
+      <div class="card orange-card">
+        <h3>Karma</h3>
+        <p>Regularly evaluates our talent to ensure quality</p>
+        <img src="./four-card-feature-section-master/images/icon-karma.svg" alt="">
+      </div>
+    </div>
 
-  Calculator
-  Uses data from past projects to provide better delivery estimates
+    <div class="card blue-card">
+      <h3>Calculator</h3>
+      <p>Uses data from past projects to provide better delivery estimates</p>
+      <img src="./four-card-feature-section-master/images/icon-calculator.svg" alt="">
+    </div>
+  </div>
+
+  </div>
 
   
   <footer>
     <p class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Your Name Here</a>.
+      Coded by <a href="https://github.com/wadze213">Danil Cristales (Wadze213)</a>.
     </p>
   </footer>
 </body>

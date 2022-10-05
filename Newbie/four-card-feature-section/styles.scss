@@ -1,0 +1,114 @@
+//Primary colors
+$red : hsl(0, 78%, 62%);
+$cyan : hsl(180, 62%, 55%);
+$orange : hsl(34, 97%, 64%);
+$blue: hsl(212, 86%, 64%);
+//Neutral tones
+$veryDarkBlue : hsl(234, 12%, 34%);
+$grayishBlue : hsl(229, 6%, 66%);
+$veryLightGray : hsl(0, 0%, 98%);
+
+//attribution
+.attribution { font-size: 11px; text-align: center; margin-top: 50px;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+//utilities 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+@mixin pm($padding-x, $padding-y, $margin-x, $margin-y){
+    padding: $padding-x $padding-y;
+    margin: $margin-x $margin-y;
+}
+.p-margin{
+    @include pm(0, 0, 1rem, 2rem)
+}
+
+//typography
+h1{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: $veryDarkBlue
+}
+h2{
+    font-size: 1.5rem;
+    font-weight: 200;
+    color: $veryDarkBlue
+}
+
+h3{
+    font-size: 18px;
+    font-weight: 600;
+    color: $veryDarkBlue;
+}
+p{
+    font-size: 15px;
+    font-weight: 200;
+    color: $grayishBlue;
+}
+//typography utils
+.center-text{
+    text-align: center;
+}
+
+// .container{
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+// }
+//Cards
+.card-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    
+    @media screen and (min-width: 1200px){
+        flex-direction: row;
+    }
+}
+.inner-card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    
+}
+.card{
+    border-radius: .25rem;
+    padding: 1rem;
+    width: 300px;
+    min-height: 200px;
+    box-shadow: (0px 5px 10px $grayishBlue);
+    position: relative;
+    img{
+        position: absolute;
+        bottom: 1rem;
+        right: 1rem;
+    }
+    &:hover{
+        background-color: $veryLightGray;
+    }
+}
+@mixin borderColor($color){
+    border-top: .25rem solid $color;
+}
+.red-card{
+    @include borderColor($red);
+}
+.cyan-card{
+    @include borderColor($cyan);
+}
+.orange-card{
+    @include borderColor($orange);
+}
+.blue-card{
+    @include borderColor($blue);
+}
