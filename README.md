@@ -13,3 +13,8 @@ Repository containing [frontend mentor](https://www.frontendmentor.io/challenges
   - [library link](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/four-card-feature-section)
   - [Live website link](https://four-card-feature-section-tau-blush.vercel.app/)
   
+- Acticle preview component.
+  - [frontendmentor link](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). 
+  - [library link](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/article-preview-component)
+  - [Live website link](https://frontendmentor-challenges-ruddy.vercel.app/)
+  
