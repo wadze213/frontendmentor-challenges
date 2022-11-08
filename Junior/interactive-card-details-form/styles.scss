@@ -1,0 +1,19 @@
+// Variables
+// Primary
+$activeInputGradient : linear-gradient(hsl(249, 99%, 64%) to hsl(278, 94%, 30%));
+$inputError : hsl(0, 100%, 66%);
+// Neutral
+$white: hsl(0, 0%, 100%);
+$lightGrayishViolet : hsl(270, 3%, 87%);
+$darkGrayishViolet: hsl(279, 6%, 55%);
+$veryDarkViolet : hsl(278, 68%, 11%);
+
+$mobile : "max-width: 560px";
+$desktop : "min-width: 561px";
+
+*{
+    box-sizing: border-box;
+    font-family: 'Space Grotesk', sans-serif;
+    padding: 0;
+    margin: 0;
+}
