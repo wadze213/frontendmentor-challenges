@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repisotory]([https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/interactive-rating-component](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/article-preview-component))
-- Live Site URL: [Vercel Site]([https://interactive-rating-component-phi-ten.vercel.app/](https://frontendmentor-challenges-ruddy.vercel.app/))
+- Solution URL: [Github repisotory](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/interactive-rating-component](https://github.com/wadze213/frontendmentor-challenges/tree/main/Newbie/article-preview-component)
+- Live Site URL: [Vercel Site](https://interactive-rating-component-phi-ten.vercel.app/](https://frontendmentor-challenges-ruddy.vercel.app/)
 
 ## My process
 
